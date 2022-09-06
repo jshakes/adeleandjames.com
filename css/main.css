@@ -14,19 +14,25 @@
 html {
   color: #3b4f76;
   background: #fdfdfb;
-  font-size: 1em;
+  font-size: 1.25em;
   line-height: 1.4;
   font-family: 'Cormorant', serif;
 }
 
 .main {
   max-width: 40em;
-  margin: 8em auto;
+  margin: 4em auto;
   text-align: center;
+}
+
+.footer {
+  margin-top: 8em;
+  font-size: 0.8em;
 }
 
 .intro {
   font-size: 1.5em;
+  margin: 2em 0;
 }
 
 h1,
